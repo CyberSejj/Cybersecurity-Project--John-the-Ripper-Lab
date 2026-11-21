@@ -1,4 +1,4 @@
-# Week3-John-the-Ripper-Lab
+# Cybersecurity-Project-John-the-Ripper-Lab
 Hands-on password security lab using John the Ripper and Johnny GUI, documenting three practical exercises in an authorized educational environment.
 Week 3 - Password Security Lab with John the Ripper
 
